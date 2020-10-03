@@ -4,7 +4,7 @@ import requests
 from win10toast import ToastNotifier
 
 
-apikey="x5LwiyteKxh6pom9DREhp0h1OIx1"  #enter here your apikey
+apikey=""  #enter here your apikey
 
 # function for text to speech
 def speech(audio):
