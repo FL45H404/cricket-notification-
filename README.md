@@ -1,5 +1,5 @@
-# cricket-notification-
-we can get cricket notification from this program
+# cricket-notification-using python
+we can get the cricket notification from this program
 first of all you need a apikey for accessing match data
 you can easily access api key from below website-
 https://www.cricapi.com/
